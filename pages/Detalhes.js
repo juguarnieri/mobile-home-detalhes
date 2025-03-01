@@ -32,16 +32,19 @@ const styles = StyleSheet.create({
     fontSize: 32,
     textAlign: "center",
     fontWeight: "bold",
+    textDecorationLine: "underline",
     color: "#100B60",
   },
   textoVermelho: {
     fontSize: 20,
     textAlign: "center",
     color: "#C33E60",
+    marginTop: 15,
   },
   textoVerde: {
     fontSize: 20,
     textAlign: "center",
     color: "#206220",
+    marginTop: 15,
   },
 });
